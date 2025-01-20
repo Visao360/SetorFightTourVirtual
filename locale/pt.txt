@@ -1,0 +1,42 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_59EE949D_4206_AF00_41D0_43891B100666.source = https://api.whatsapp.com/send?phone=5522999909955&text=Ol%C3%A1%20!!%20Seja%20bem%20vindo%20a%20academia%20Setor%20Fight.
+LinkBehaviour_50904822_408B_F2A6_4182_F493D2488FD2.source = https://api.whatsapp.com/send?phone=5522999909955&text=Ol%C3%A1%20!!%20Seja%20bem%20vindo%20a%20academia%20Setor%20Fight.
+LinkBehaviour_59E044A0_4206_AF01_41CE_B0F273DA6A59.source = https://maps.google.com/?cid=11946208452782425874
+LinkBehaviour_4FC7A2E6_4089_D7AE_41C3_54948B74AD01.source = https://maps.google.com/?cid=11946208452782425874
+LinkBehaviour_50E002E9_408A_37A5_41C4_92E6A9D8DEB2.source = https://www.instagram.com/setorfight_oficial/
+LinkBehaviour_59E0249E_4206_AF00_41AE_C9C090B0E9EC.source = https://www.instagram.com/setorfight_oficial/
+
+## Media
+
+### Audio
+audiores_62637D0A_420B_B903_4180_BED357D3A75B.mp3Url = media/audio_5D9FA40D_4209_6F01_41C5_A62CB233B6EE_pt.mp3
+audiores_958BDE24_8582_C4FD_41C1_CE6B2516FF60.mp3Url = media/audio_95E7CA8D_858D_4DCE_41D8_9A4C40B71840_pt.mp3
+
+### Title
+panorama_8AEA6A84_8561_D723_41D4_7CC6E6ECE2C5.label = FACHADA
+panorama_8B208889_8561_7325_41DE_3A29B27B1DF8.label = RECEPÇÃO
+panorama_8B53AF26_8562_CD6F_41D9_B7E4A41FE5F9.label = TATAME 1.1
+panorama_8BAD76B5_8562_BF6D_41DF_3CF8C6B697F9.label = TATAME 1.2
+panorama_8B931C8F_8563_533D_419A_68071E97FC65.label = TATAME 2.1
+panorama_88983314_8563_5523_41CC_6A6B9B7030C8.label = TATAME 2.2
+
+## Skin
+
+### Image
+Image_4E2D973B_408A_3454_41C0_9540730F1E1D_mobile.url = skin/Image_4E2D973B_408A_3454_41C0_9540730F1E1D_mobile_pt.png
+Image_4E2D973B_408A_3454_41C0_9540730F1E1D.url = skin/Image_4E2D973B_408A_3454_41C0_9540730F1E1D_pt.png
+Image_4E46EBE4_408E_33FC_41BE_7CA335C74944_mobile.url = skin/Image_4E46EBE4_408E_33FC_41BE_7CA335C74944_mobile_pt.png
+Image_4E46EBE4_408E_33FC_41BE_7CA335C74944.url = skin/Image_4E46EBE4_408E_33FC_41BE_7CA335C74944_pt.png
+Image_4E6275A7_408A_347C_41C0_F5A3406760B8_mobile.url = skin/Image_4E6275A7_408A_347C_41C0_F5A3406760B8_mobile_pt.png
+Image_4E6275A7_408A_347C_41C0_F5A3406760B8.url = skin/Image_4E6275A7_408A_347C_41C0_F5A3406760B8_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Setor Fight Tour Virtual
