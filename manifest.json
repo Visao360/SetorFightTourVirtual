@@ -1,7 +1,4 @@
 {
- "theme_color": "#000000",
- "name": "Setor Fight Tour Virtual",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#000000",
- "start_url": "index.htm?installed=true"
+ "name": "Setor Fight Tour Virtual",
+ "display": "fullscreen",
+ "theme_color": "#000000",
+ "start_url": "index.htm?installed=true",
+ "background_color": "#000000"
 }
